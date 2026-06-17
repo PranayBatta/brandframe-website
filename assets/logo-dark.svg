@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 165 40" width="100%" height="100%">
+  <!-- brand text (off-white for dark theme) -->
+  <text x="0" y="28" font-family="'Outfit', system-ui, sans-serif" font-weight="800" font-size="26" fill="#F0ECE3" letter-spacing="-0.03em">brand</text>
+  
+  <!-- 4 horizontal brand stripes in the middle -->
+  <g transform="translate(74, 11)">
+    <rect x="0" y="0" width="16" height="3" rx="1.5" fill="#2DBCBF" />
+    <rect x="0" y="6" width="16" height="3" rx="1.5" fill="#E84428" />
+    <rect x="0" y="12" width="16" height="3" rx="1.5" fill="#F47920" />
+    <rect x="0" y="18" width="16" height="3" rx="1.5" fill="#FAC018" />
+  </g>
+  
+  <!-- frame text (off-white for dark theme) -->
+  <text x="96" y="28" font-family="'Outfit', system-ui, sans-serif" font-weight="800" font-size="26" fill="#F0ECE3" letter-spacing="-0.03em">frame</text>
+</svg>
